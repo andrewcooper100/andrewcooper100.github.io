@@ -8,3 +8,4 @@
   'https://connect.facebook.net/en_US/fbevents.js');
   fbq('init', '1761999997420197');
   fbq('track', 'PageView');
+  fbq('track', 'Lead');
